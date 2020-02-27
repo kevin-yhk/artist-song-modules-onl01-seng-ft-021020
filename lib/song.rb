@@ -9,7 +9,8 @@ class Song
 
   @@songs = []
 
-  def 
+  def self.all 
+    
   
   def artist=(artist)
     @artist = artist
