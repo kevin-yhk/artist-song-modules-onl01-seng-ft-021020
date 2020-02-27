@@ -9,6 +9,7 @@ class Song
 
   @@songs = []
 
+  def 
   
   def artist=(artist)
     @artist = artist
